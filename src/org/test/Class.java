@@ -1,10 +1,25 @@
 package org.test;
 
 public class Class {
-	public static void login() {
-		System.out.println("login");
-	}
-	public static void main(String[] args) {
-		login();
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void locat() {
+		System.out.println("luck");
+		
+	
 	}
 }
